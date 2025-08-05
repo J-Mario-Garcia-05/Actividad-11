@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fe0a142-2247-4c51-96ab-4e9e5199999c" name="Changes" comment="Quick Sort" />
+    <list default="true" id="2fe0a142-2247-4c51-96ab-4e9e5199999c" name="Changes" comment="Crear menú">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Actividad_11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Actividad_11.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +16,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "J-Mario-Garcia-05"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/J-Mario-Garcia-05/Actividad-11.git",
@@ -57,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1754325962539</updated>
-      <workItem from="1754325963667" duration="756000" />
+      <workItem from="1754325963667" duration="2744000" />
     </task>
     <task id="LOCAL-00001" summary="Quick Sort">
       <option name="closed" value="true" />
@@ -67,7 +76,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754326528534</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Crear menú">
+      <option name="closed" value="true" />
+      <created>1754327413699</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1754327413699</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,7 +103,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Quick Sort" />
-    <option name="LAST_COMMIT_MESSAGE" value="Quick Sort" />
+    <MESSAGE value="Crear menú" />
+    <option name="LAST_COMMIT_MESSAGE" value="Crear menú" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -100,6 +118,6 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Actividad_11$Actividad_11.coverage" NAME="Actividad_11 Coverage Results" MODIFIED="1754326687850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Actividad_11$Actividad_11.coverage" NAME="Actividad_11 Coverage Results" MODIFIED="1754328415018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
